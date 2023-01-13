@@ -1,10 +1,10 @@
-## Welcome to My Page!
+# Welcome to My Page!
 
-# Name:
+### Name:
 MyUyen Nguyen
 
-# Major: 
+### Major: 
 Electrical and Computering Engineering
 
-# Year: 
+### Year: 
 Junior
