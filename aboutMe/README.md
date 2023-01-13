@@ -1,1 +1,5 @@
-<p style="text-align: center;">Welcome to My Page!</p>
+## Welcome to My Page!
+
+Name: MyUyen Nguyen
+Major: Electrical and Computering Engineering
+Year: Junior
