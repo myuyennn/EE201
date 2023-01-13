@@ -1,10 +1,3 @@
-# Welcome to My Page!
+# Welcome to My Page for EE201!
 
-### Name:
-MyUyen Nguyen
-
-### Major: 
-Electrical and Computering Engineering
-
-### Year: 
-Junior
+My name is MyUyen Nguyen and I am a junior studying Electrial and Computer Engineering.
